@@ -1,0 +1,5 @@
+/home/gitishree/qt_rtsp_app/build/CMakeFiles/appQtRTSP.dir
+/home/gitishree/qt_rtsp_app/build/CMakeFiles/edit_cache.dir
+/home/gitishree/qt_rtsp_app/build/CMakeFiles/rebuild_cache.dir
+/home/gitishree/qt_rtsp_app/build/CMakeFiles/appQtRTSP_autogen_timestamp_deps.dir
+/home/gitishree/qt_rtsp_app/build/CMakeFiles/appQtRTSP_autogen.dir

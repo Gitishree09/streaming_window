@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "name": "WSL",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
+
